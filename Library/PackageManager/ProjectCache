@@ -5,15 +5,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638172473411395835
-    m_Hash: 3897099863
+      ticks: 638180411226394296
+    m_Hash: 4063568995
   m_LockFileStatus:
     m_FilePath: D:/Unity/Unity Projects/TFG-BCI/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638172473411981682
+      ticks: 638180410586465039
     m_Hash: 3388840447
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -114,6 +114,7 @@ m_PackageAssets:
         - 5.2.3
         - 5.2.4
         - 5.2.6
+        - 5.2.7
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
@@ -156,7 +157,8 @@ m_PackageAssets:
         - 5.2.3
         - 5.2.4
         - 5.2.6
-        verified: 5.2.6
+        - 5.2.7
+        verified: 5.2.7
       dependencies:
       - name: com.unity.2d.common
         version: 4.2.1
@@ -791,16 +793,18 @@ m_PackageAssets:
         - 2.0.0
         - 2.0.1
         - 2.0.3
+        - 2.0.4
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
         - 2.0.1
         - 2.0.3
+        - 2.0.4
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 2.0.3
+        verified: 2.0.4
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -896,6 +900,7 @@ m_PackageAssets:
         - 3.0.17
         - 3.0.18
         - 3.0.20
+        - 3.0.21
         compatible:
         - 1.0.2
         - 1.0.6
@@ -932,7 +937,8 @@ m_PackageAssets:
         - 3.0.17
         - 3.0.18
         - 3.0.20
-        verified: 3.0.20
+        - 3.0.21
+        verified: 3.0.21
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
