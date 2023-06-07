@@ -1,4 +1,4 @@
-# Control of Electromechanical Devices using BCI: Unity Project
+# Bachelor's Degree Thesis: Control of Electromechanical Devices using BCI. Unity Project
 
 ## Design
 I'm using the [Unity-Robotics-Hub][1], which is a Unity package that manages ROS connections according to this scheme.
