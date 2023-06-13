@@ -1,6 +1,6 @@
-Bachelor's Degree Thesis: Control of Electromechanical Devices using BCI - Unity Part (Version with Unity Robotics Hub)
+# Bachelor's Degree Thesis: Control of Electromechanical Devices using BCI - Unity Part (Version with Unity Robotics Hub)
 
-About
+## About
 This repository is an earlier version of the Unity component of my Bachelor's Degree Thesis project, which is about controlling electromechanical devices using a Brain-Computer Interface (BCI). It initially made use of the Unity-Robotics-Hub, a Unity package that managed ROS connections. However, due to unidentified issues causing the application to crash when used in conjunction with the NextMind device, I've decided to transition to the ROS2-For-Unity library for the final version of the project.
 
 ## Design
